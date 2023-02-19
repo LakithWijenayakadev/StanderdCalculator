@@ -1,0 +1,10 @@
+{
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    },
+    "eslint.enable": false,
+    "prettier.arrowParens": false,
+    "prettier.bracketSpacing": false,
+    "prettier.autoScroll": false,
+    "prettier.bracesSpacing": false
+}
